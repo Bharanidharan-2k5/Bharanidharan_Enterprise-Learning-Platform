@@ -583,14 +583,14 @@ Version Control using Git & GitHub
 
 Repository Name:
 
-Anekka_Enterprise-Learning-Platform
+Bharabidharan_Enterprise-Learning-Platform
 
 GitHub Repository:
-https://github.com/Anekka29/Anekka_Enterprise-Learning-Platform.git
+https://github.com/Anekka29/Bharanidharan_Enterprise-Learning-Platform.git
 
 # 👩‍💻 Author
 
-Anekka T.S
+Bharanidharan G S
 
 # ⭐ Project
 
